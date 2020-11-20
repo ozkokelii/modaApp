@@ -1,0 +1,4 @@
+#Sat Nov 21 01:16:21 GMT+03:00 2020
+base.0=C\:\\flutter_projects\\moda_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
